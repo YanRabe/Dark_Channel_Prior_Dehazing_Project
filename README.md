@@ -1,3 +1,4 @@
+lien slides présentation: https://canva.link/vm9d57rgtkxl3rz
 --Il faut installer opencv-contrib-python et non opencv-python pour utiliser guided filter dans le raffinage de la transmission--
 
 ######## Pour visualiser les résultats de la pipeline sur une image,
